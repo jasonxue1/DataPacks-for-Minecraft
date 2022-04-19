@@ -1,9 +1,9 @@
 {
     "type": "smelting",
     "ingredient": {
-        "item": "minecraft:chest"
+        "item": "minecraft:trapped_chest"
     },
-    "result": "minecraft:chest",
+    "result": "minecraft:trapped_chest",
     "experience": 0,
     "cookingtime": 200
 }
