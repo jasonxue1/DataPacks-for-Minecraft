@@ -1,3 +1,5 @@
-这是由jasonxue1制作的Minecraft数据包
+这个数据包可以合成龙息、命名牌
 
-These are Data Packs which are maded by jasonxue1.
+1.13及以后版本全可以使用
+
+如果提示版本不对，请忽略
