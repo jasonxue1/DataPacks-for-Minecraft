@@ -1,5 +1,5 @@
-这是由jasonxue1制作的Minecraft数据包
+这是我原创的Minecraft数据包
 
-1.13及更高版本 全版本支持
+1.13及以后版本全可以使用
 
-These are Data Packs which are maded by jasonxue1.
+如果提示版本不对，请忽略
